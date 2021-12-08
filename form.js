@@ -9,6 +9,7 @@
       console.log(zipcode)
       var device = $("#device").val()
       console.log(device)
+      var device = $("#")
     }
   }
 })();
