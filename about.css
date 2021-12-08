@@ -1,8 +1,14 @@
 h1 {
   text-align: center;
 }
-button {
-  text-align: left;
+#home {
+  background-image: url("http://assets.stickpng.com/thumbs/588a6660d06f6719692a2d16.png");
+  width: 100px;
+  height: 100px;
+  background-repeat: no-repeat;
+  display: inline-block;
+  background-position: center;
+  background-size: contain;
 }
 h2 {
   text-align: center;
@@ -11,6 +17,12 @@ h2 {
 #headerimage {
   height:30%;
   width: 40%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
+.header {
+  display: inline-block;
 
 }
